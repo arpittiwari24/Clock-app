@@ -1,0 +1,16 @@
+* {
+    background-color: #242424;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 100px;
+    color: #fff;
+  }
+  
+  .buttons {
+    display: flex;
+    padding-top: 50px;
+    justify-content: center;
+    gap: 100px;
+  }
